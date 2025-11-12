@@ -1,2 +1,8 @@
-# 8-Week-SQL-Challenge
+## 8-Week-SQL-Challenge
+_______________________________________________________________________________________________________________________________________________________________
 A collection of case studies for week-by-week challenge!
+
+This repository will serve to tackle 8 solutions for case studies. It showcases my ability to tackle down various challenges in SQL and demonstrate my ability in SQL queries and problem solving skills
+
+#📚 Table of Contents
+________________________________________________________________________________________________________________________________________________________________
