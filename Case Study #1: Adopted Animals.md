@@ -26,3 +26,8 @@ The main or key goals of the ERD will be:
 4. Enable calculation of: Avg shelter time, Return Rate, Satisfaction metrics.
                          
 ## Entity Relatioship Diagram
+<p align="center">
+  <img src="[https://github.com/peterly-oce/8-Week-SQL-Challenge/blob/main/CaseStudy1.png](https://github.com/peterly-oce/8-Week-SQL-Challenge/blob/main/CaseStudy1.1.png)" 
+       alt="Case Study 1 ERD" 
+       width="50%">
+</p>
